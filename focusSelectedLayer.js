@@ -43,7 +43,7 @@
         }, null, null,'Shift+F');
 	
 	    // Adds menu
-	    ui.menubar.addMenu('关卡功能', function(menu, parent) {
+	    ui.menubar.addMenu('guanqia', function(menu, parent) {
 	        ui.menus.addMenuItem(menu, 'focusSelectedLayerAction');
 	    });
 	
